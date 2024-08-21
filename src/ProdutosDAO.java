@@ -68,6 +68,7 @@ public class ProdutosDAO {
 
         return listagem;
     }
+<<<<<<< HEAD
 
     public void vender(Integer id) throws SQLException {
 
@@ -117,3 +118,7 @@ public class ProdutosDAO {
 
     }
 }
+=======
+}
+
+>>>>>>> afc7029a0a72700d870db86a403a15039ee02a08
